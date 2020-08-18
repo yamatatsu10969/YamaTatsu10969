@@ -1,4 +1,10 @@
-### Hi there 👋
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=maip0902&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maip0902" />
+</a>
 
 <!--
 **YamaTatsu10969/YamaTatsu10969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
