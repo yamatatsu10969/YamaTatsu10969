@@ -5,6 +5,13 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamaTatsu10969&hide=html,css&theme=dracula" />
 </a>
 
+# My Qiita posts
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/yamatatsu10969/posts.svg)](http://qiita.com/yamatatsu10969)
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/yamatatsu10969/contributions.svg)](http://qiita.com/yamatatsu10969)
+# My Qiita followers
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/yamatatsu10969/followers.svg)](http://qiita.com/yamatatsu10969)
+
 <!--
 **YamaTatsu10969/YamaTatsu10969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
