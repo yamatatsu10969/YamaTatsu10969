@@ -6,7 +6,7 @@
 - [note](https://note.com/yamatatsu10969)
 - [Twitter](https://twitter.com/yamatatsu109_ja)
 
-### Contacts
+## Contacts
 
 - [Twitter DM](https://twitter.com/yamatatsu109_ja)
 - Email: yamamototatsuya1028@gmail.com
