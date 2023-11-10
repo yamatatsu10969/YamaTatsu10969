@@ -1,8 +1,9 @@
 ## SNS Accounts
 
+- [LinkedIn](https://linkedin.com/in/yamatatsu109)
+- [Speaker Deck](https://speakerdeck.com/YamaTatsu10969)
 - [Qiita](https://qiita.com/yamatatsu10969)
 - [Zenn](https://zenn.dev/yamatatsu10969)
-- [Speaker Deck](https://speakerdeck.com/YamaTatsu10969)
 - [note](https://note.com/yamatatsu10969)
 - [Twitter](https://twitter.com/yamatatsu109_ja)
 
@@ -17,7 +18,7 @@
 
 ## Resume
 
-- [resume](https://github.com/YamaTatsu10969/resume/blob/main/career/resume_detail.md)
+- [LinkedIn](https://linkedin.com/in/yamatatsu109)
 
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/yamatatsu10969/posts.svg)](http://qiita.com/yamatatsu10969)
